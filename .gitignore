@@ -1,4 +1,5 @@
 root.crt 
+*.zip
 # Logs
 logs
 *.log
